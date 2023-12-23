@@ -3,6 +3,7 @@
 
 This Bash script automates the installation of Xtreme Download Manager (XDM) on your system.
 
+
 ## Prerequisites
 - This installation assumes you're using a Debian-based system.
 - Ensure that you have sudo privileges.
@@ -21,6 +22,7 @@ cd XDM_Installation
 Execute the install script to set up Xtreme Download Manager:
 
 ```bash
+chmod +x install_xdm.sh
 sudo ./install_xdm.sh
 ```
 
